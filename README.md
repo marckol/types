@@ -1,3 +1,6 @@
+
+Javascript types checker library: useful for javascript strong-typed class creation
+
 # Required libraries
 serenix_types.js library requires:
 - A library that create the class NSNode (serenix_ns_node.js for example)
