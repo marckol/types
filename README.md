@@ -1,3 +1,8 @@
+# required libraries
+serenix_types.js library requires:
+- A library that create the class NSNode (serenix_ns_node.js for example)
+- serenix_object.js
+- serenix_type_utils.js
 
 # Serenix.types.Type
 SereniX.types.Type is an abstract class and the super class of many predefined type classes. SereniX.types.Type is usable for class creation using Klass.Class (that is in the librabry serenix_class_base.js) method
